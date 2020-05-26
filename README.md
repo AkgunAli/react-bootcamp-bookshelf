@@ -2,7 +2,7 @@
 
 This project was bootstrapped with Create React App.
 
-Please visit https://akgunali.github.io/react-bootcamp-bookself/ for review
+Please visit https://akgunali.github.io/react-bootcamp-bookshelf/ for review
 
 ## npm install
 Install the dependencies in the local node_modules folder.
