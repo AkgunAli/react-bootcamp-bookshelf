@@ -16,8 +16,6 @@ Open http://localhost:3000 to view it in the browser.
 
 `yarn install` komutu ile paketleri yukledikten sonra `yarn start` ile projeyi calistirabilirsiniz.
 
-https://mockapi.io/clone/5ea567662d86f00016b45b7f
-
 Bundan sonra API_HOST degiskenini kendi urliniz ile sonunda / olmadan degistirin.
 
 
