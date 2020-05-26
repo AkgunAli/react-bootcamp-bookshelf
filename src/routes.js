@@ -11,6 +11,14 @@ const routes = [
     component: Homepage,
   },
   {
+    title: "Home Page",
+    path: "/react-bootcamp-bookshelf/",
+    exact: true,
+    componentProps: {
+    },
+    component: Homepage,
+  },
+  {
     title: "Add Book",
     path: "/add-book",
     exact: false,

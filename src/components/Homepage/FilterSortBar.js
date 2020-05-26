@@ -10,7 +10,7 @@ const FilterSortBar = (props) => {
         <div>
                 <Container fluid className="bg-white" style={{padding: "15px"}}>
                     <Row>
-                        <Col xs={6}>
+                        <Col xs={5}>
                             <Nav className="bg-white">
                                 <StyledNavbarText><strong>Categories:</strong></StyledNavbarText>
                                 <StyledNavbarText active={!props.activeFilter} onClick={() => {
@@ -26,7 +26,7 @@ const FilterSortBar = (props) => {
                             </Nav>
                         </Col>
 
-                        <Col xs={6}>
+                        <Col xs={7}>
                             <StyledInputGroup>
                                 <InputGroupAddon addonType="prepend">
                                     <InputGroupText>Search by name or author</InputGroupText>
