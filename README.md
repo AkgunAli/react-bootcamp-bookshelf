@@ -12,7 +12,7 @@ Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
 
-#  Projeyi calistirma
+#  Projeyi Çalıştırma
 
 `yarn install` komutu ile paketleri yukledikten sonra `yarn start` ile projeyi calistirabilirsiniz.
 
